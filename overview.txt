@@ -1,0 +1,1 @@
+This repository Contains the codes and pin configuration for STM32U575I-EV board for tutorial puposes and references. The software used is STM32CUBEIDE. Take help from the Document in the repository to get a full tutorial and overview of how to use the IDE and the ideology of the system used in the system mentioned here.
